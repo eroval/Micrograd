@@ -2,6 +2,10 @@
 
 ### Backpropagation, simple Neural Network & training
 
+### Requirements:
+- For Windows:
+    download from `https://graphviz.org/download/` and add `/bin` folder to `PATH` env variable.
+
 ### Notes:
 - create, start, activate & update environment:
     `. start-venv.sh --VENV "<environment-name>"`
